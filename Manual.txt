@@ -1,0 +1,13 @@
+Author: Vermilion_ks
+https://ragemp.pro/threads/full-stack-back-end.9620/
+
+ИНСТРУКЦИЯ ПО УСТАНОВКЕ
+
+
+
+1. Заменить файлы из архива:
+src/cef/components/BarberShop/BarberShop.tsx
+src/cef/components/Personage/assets/nails.svg
+src/client/modules/character.creator.ts
+src/client/modules/users.ts
+src/shared/barbershop.ts
